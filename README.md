@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahroz Ahmed</h1>
-<h3 align="center">One more passionate frontend developer</h3>
+<h3 align="center">React.js Developer @ MindsCollide | Level 1 Freelance| Tech Writer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrozahmd&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozahmd" /> </p>
 
