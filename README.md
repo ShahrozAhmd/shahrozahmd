@@ -2,7 +2,7 @@
 <h3 align="center">React.js Developer | Level 1 Freelancer | Tech Writer </h3>
 
 
-<img alt="GitHub followers" align="center"src="https://img.shields.io/github/followers/shahrozahmd?logo=Github&style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/shahrozahmd?logo=Github&style=for-the-badge">
 
 - 🔭 I’m currently working at **MindsCollide, A Fintech Industry**
 
