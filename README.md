@@ -19,9 +19,12 @@
 
 - ⚡ Fun fact ➡️ **I am a Perfectionist !!!**
 
-<p><img align="left" width="100%" height="100"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrozahmd&show_icons=true&locale=en&layout=compact" alt="shahrozahmd" /></p>
+<p>
+<img align="left" width="100%" height="100"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrozahmd&show_icons=true&locale=en&layout=compact" alt="shahrozahmd" />
+</p>
 
-<p>&nbsp;<img  width="100%" height="100" src="https://github-readme-stats.vercel.app/api?username=shahrozahmd&show_icons=true&locale=en" alt="shahrozahmd" />
+<p>&nbsp;<img  width="100%" height="100" src="https://github-readme-stats.vercel.app/api?username=shahrozahmd&show_icons=true&locale=en" alt="shahrozahmd" /></p>
+<p>&nbsp;
 <img  width="100%" heigth="100" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrozahmd&" alt="shahrozahmd" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
