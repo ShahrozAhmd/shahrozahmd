@@ -2,7 +2,7 @@
 <h3 align="center">React.js Developer | Level 1 Freelancer | Tech Writer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrozahmd&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozahmd" /> </p>
-![GitHub followers](https://img.shields.io/github/followers/shahrozahmd?logo=Github&style=for-the-badge)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/shahrozahmd?logo=Github&style=for-the-badge">
 
 - 🔭 I’m currently working at **MindsCollide, A Fintech Industry**
 
