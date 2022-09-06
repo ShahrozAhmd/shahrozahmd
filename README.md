@@ -24,7 +24,7 @@
 
 - 💻 I am currently working as a Frontend developer with javascript tech stack.
 - 🌱 Learning Vue.js and improving my coding skills.
-- 🥇 Freelancer on Fiverr, giving sservices as a Frontend web developer.
+- 🥇 Freelancer on Fiverr, giving services as a Frontend web developer.
 - ✨ Love researching better architectures and their implementation.
 - 📝 I ocassionally write articles on dev.to
 - 🎯 My major goal is to be a better developer day by day.
