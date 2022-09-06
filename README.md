@@ -24,10 +24,11 @@
 
 - 💻 I am currently working as a Frontend developer with javascript tech stack.
 - 🌱 Learning Vue.js and improving my coding skills.
+- 🥇 Freelancer on Fiverr, giving sservices as a Frontend web developer.
 - ✨ Love researching better architectures and their implementation.
-- 📝 I ocassionally write articles on ➡️ dev.to
+- 📝 I ocassionally write articles on dev.to
 - 🎯 My major goal is to be a better developer day by day.
-- ⚡ Fun fact ➡️ I am a Perfectionist !!!
+- ⚡ Fun fact is I am a Perfectionist !!!
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
