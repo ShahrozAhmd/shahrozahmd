@@ -22,13 +22,13 @@
 <!-- Who I am Section -->
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-💻 I am a software engineer, focused on Frontend development with javascript.
-🌱 Learning Vue.js....
-🥇 Freelancer on Fiverr, giving services as a Frontend web developer.
-✨ Love researching better architectures and their implementation.
-📝 I ocassionally write articles on dev.to
-🎯 My major goal is to be a better developer day by day.
-⚡ Fun fact is I am a Perfectionist !!!
+💻 I am a software engineer, focused on Frontend development with javascript.<br/>
+🌱 Learning Vue.js....<br/>
+🥇 Freelancer on Fiverr, giving services as a Frontend web developer.<br/>
+✨ Love researching better architectures and their implementation.<br/>
+📝 I ocassionally write articles on dev.to<br/>
+🎯 My major goal is to be a better developer day by day.<br/>
+⚡ Fun fact is I am a Perfectionist !!!<br/>
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
