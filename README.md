@@ -22,8 +22,8 @@
 <!-- Who I am Section -->
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- 💻 I am currently working as a Frontend developer with javascript tech stack.
-- 🌱 Learning Vue.js and improving my coding skills.
+- 💻 I am a software engineer, focused on Frontend development with javascript.
+- 🌱 Learning Vue.js....
 - 🥇 Freelancer on Fiverr, giving services as a Frontend web developer.
 - ✨ Love researching better architectures and their implementation.
 - 📝 I ocassionally write articles on dev.to
@@ -79,6 +79,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
 <br>
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrozAhmd&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
